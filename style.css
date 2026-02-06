@@ -1,12 +1,6 @@
  
   /* seletores tags,id e classes */
  
- h1{color: cyan; background-color: black;}
-
-p{
-color: violet;background-color: black;font-size: px;font-family: Cambria, Cochin, orgia, Times, 'Times New Roman', serif;
-}
- /*id*/
 
 #mensagem1{color: red;background-color: blueviolet;font-size: 16px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
@@ -59,6 +53,7 @@ color: violet;background-color: black;font-size: px;font-family: Cambria, Cochin
   .paragrafo{
     font-style: italic;
     font-weight: 600;
+    color: blue;
 
   }
   span{
@@ -71,5 +66,13 @@ color: violet;background-color: black;font-size: px;font-family: Cambria, Cochin
   .destaque{
     font-size: large;
     font-style: italic;
-    color: paleturquoise;
+    color: red;
+  }
+  a{
+    font-style: italic;
+    text-decoration: underline;
+    color: blue ;
+  }
+  .paragrafo1{
+    color: darksalmon;
   }
