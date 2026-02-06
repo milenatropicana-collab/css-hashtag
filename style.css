@@ -1,0 +1,35 @@
+ 
+  /* seletores tags,id e classes */
+ 
+ h1{color: cyan; background-color: black;}
+
+p{
+color: violet;background-color: black;font-size: px;font-family: Cambria, Cochin, orgia, Times, 'Times New Roman', serif;
+}
+ /*id*/
+
+#mensagem1{color: red;background-color: blueviolet;font-size: 16px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+  #mensagem2{
+    color: greenyellow;background-color: burlywood;font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  #mensagem3{
+    color: chocolate;
+  }
+  #mensagem4{
+    color: coral;
+  }
+  #mensagem5{
+    color: darkslategray;
+  }
+  #mensagem6{
+    color: darkcyan;
+  }
+  #mensagem1,mensagem2,mensagem3{
+    font-size:30px;
+  }
+  /*classes*/
+  .mensagem{
+    color: chartreuse;font-size: 24px;
+  }
