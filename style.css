@@ -33,3 +33,43 @@ color: violet;background-color: black;font-size: px;font-family: Cambria, Cochin
   .mensagem{
     color: chartreuse;font-size: 24px;
   }
+  span{
+    color:bisque;
+    font-size: 35px;
+  }
+  h1{
+    font-size: 22px;
+    
+  }
+  h2{
+    font-size: 32px;
+    
+  }
+  h3{
+    font-size: 24px;
+    
+  }
+  p{
+    font-size: 18px;
+        
+  }
+  h1,h2,h3,p{
+   font-family: "arial", sans-serif; 
+  }
+  .paragrafo{
+    font-style: italic;
+    font-weight: 600;
+
+  }
+  span{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 35px;
+    font-style: italic;
+    text-transform: lowercase;
+
+  }
+  .destaque{
+    font-size: large;
+    font-style: italic;
+    color: paleturquoise;
+  }
